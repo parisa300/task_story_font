@@ -1,6 +1,8 @@
 
 import 'package:flutter/material.dart';
-import '../../../core/painters/fancy_text_painter.dart';
+
+import '../../../../core/painters/fancy_text_painter.dart';
+
 
 class FancyTextWidget extends StatelessWidget {
   final String text;

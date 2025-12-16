@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'features/presentation/bloc/text_cubit.dart';
-import 'features/presentation/screen/text_render_screen.dart';
+
+import 'features/render_text/presentation/bloc/text_cubit.dart';
+import 'features/render_text/presentation/screen/text_render_screen.dart';
+
 
 void main() {
   runApp(const MyApp());

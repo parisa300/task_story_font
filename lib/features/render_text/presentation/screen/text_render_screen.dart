@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import '../../moment/screen/moment_screen.dart';
+import '../../../moment/screen/moment_screen.dart';
 import '../bloc/text_cubit.dart';
 import '../bloc/text_state.dart';
 import '../widgets/fancy_text_widget.dart';
